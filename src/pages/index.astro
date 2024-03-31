@@ -6,7 +6,6 @@ import PageLayout from "../layouts/PageLayout.astro";
 <PageLayout title="Steam Review Template">
   <header class="bg-slate-700 text-white py-2 flex flex-col items-center">
     <h1>{"---{ Review Template }---"}</h1>
-    <p class="mt-0">☑ Awesome</p>
   </header>
 
   <div class="max-w-screen-sm mx-auto px-4">
@@ -15,17 +14,6 @@ import PageLayout from "../layouts/PageLayout.astro";
       you are on this website, this <em>is</em> what you are looking for). I
       find them moderately funny, so I made this website to avoid copy-pasting
       the copy pasta so much.&nbsp;😆
-    </p>
-    <p>
-      The code is open source &rarr; <a
-        href="https://github.com/VojtaStruhar/steam-review-template"
-      >
-        check it out on Github</a
-      >!
-    </p>
-    <p>
-      The result generates with a line at the bottom that gives me credit.
-      Leaving it there is optional, but highly appreciated! Thanks!
     </p>
     {
       config_json.categories.map((category) => (
