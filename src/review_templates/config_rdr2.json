@@ -38,7 +38,7 @@
             ]
         },
         {
-            "title": "Audience",
+            "title": "Audience (age)",
             "type": "check",
             "options": [
                 "<13",
