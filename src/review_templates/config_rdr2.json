@@ -5,7 +5,6 @@
             "title": "Graphics",
             "type": "radio",
             "options": [
-                "You forget what reality is",
                 "Beautiful",
                 "Good",
                 "Decent",
@@ -35,17 +34,17 @@
                 "Good",
                 "Not too bad",
                 "Bad",
-                "I'm now deaf"
+                "Awful"
             ]
         },
         {
             "title": "Audience",
             "type": "check",
             "options": [
-                "Kids",
-                "Teens",
-                "Adults",
-                "Grandma"
+                "<13",
+                "13-19",
+                "20-60",
+                ">60"
             ]
         },
         {
@@ -56,8 +55,8 @@
                 "Potato",
                 "Decent",
                 "Fast",
-                "Rich boi",
-                "Ask NASA if they have a spare computer"
+                "High specs",
+                "Top specs"
             ]
         },
         {
@@ -77,10 +76,10 @@
             "title": "Difficulty",
             "type": "radio",
             "options": [
-                "Just press 'W'",
+                "Just press a button",
                 "Easy",
                 "Easy to learn / Hard to master",
-                "Significant brain usage",
+                "Need to concentrate",
                 "Difficult",
                 "Dark Souls"
             ]
@@ -90,7 +89,7 @@
             "type": "radio",
             "options": [
                 "Nothing to grind",
-                "Only if u care about leaderboards/ranks",
+                "Only if you care about leaderboards/ranks",
                 "Isn't necessary to progress",
                 "Average grind level",
                 "Too much grind",
@@ -127,7 +126,7 @@
                 "It's free!",
                 "Worth the price",
                 "If it's on sale",
-                "If u have some spare money left",
+                "If you have some spare money left",
                 "Not recommended",
                 "You could also just burn your money"
             ]
